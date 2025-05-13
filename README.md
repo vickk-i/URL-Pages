@@ -35,11 +35,6 @@ Since the data is stored in the `#hash` of the URL, it never leaves the client�
 - Bypass censorship by hiding full pages in links.
 - Archive static web pages.
 
-## 🌐 Live Demo
-
-Try the live editor and see how it works:  
-[Editor Demo](https://vickk-i.github.io/urlpages/editor)
-
 ## 🧠 Inspiration
 
 This started out as a static CodePen-like editor, but I became intrigued by the idea of using the URL itself as a publishing medium. After a few experiments, I developed this proof-of-concept and realized how powerful and flexible this approach could be for small-scale web publishing.
